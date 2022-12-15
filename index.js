@@ -1,4 +1,4 @@
-import {category} from '/category.js'
+import {category} from './category.js';
 
 function displayItems(){
     var biryani= document.getElementById('biryani');
@@ -17,6 +17,8 @@ function displayItems(){
     const chineseData= category.filter((item)=>item.category=='chinese');
     const southData= category.filter((item)=>item.category=='south indian');
     biryaniData.map(item=>{
+        
+
         
         var itemCard= document.createElement('div');
         itemCard.setAttribute('id','item-card')
