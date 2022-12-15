@@ -74,29 +74,29 @@ const category= [
 
 {
     id: 10,
-    name: 'Chicken Roast',
+    name: 'Chicken Grillt',
     category : 'chicken',
     rating : 4.3,
     price: 11,
-    img: 'images/chicken/Chicken_roast.jpg',
+    img: 'images/chicken1.jpg',
     quantity: 1
 },
 {
     id: 11,
-    name: 'Chicken Curry',
+    name: 'Chicken Mashala',
     category : 'chicken',
     rating : 4.3,
     price: 10,
-    img: 'images/chicken/Chicken-Curry.jpg',
+    img: 'images/chicken2.jpg',
     quantity: 1
 },
 {
     id: 12,
-    name: 'Chicken Do Pyaza',
+    name: 'Chicken Toast',
     category : 'chicken',
     rating : 4.3,
     price: 14,
-    img: 'images/chicken/Chicken-do-Pyaza.jpg',
+    img: 'images/chicken3.jpg',
     quantity: 1
 },
 {
@@ -105,12 +105,12 @@ const category= [
     category : 'chicken',
     rating : 4.3,
     price: 12,
-    img: 'images/chicken/Chicken-Masala.jpeg',
+    img: 'images/chicken4.jpg',
     quantity: 1
 },
 {
     id: 14,
-    name: 'Handi Chicken',
+    name: 'Chicken Fry',
     category : 'chicken',
     rating : 4.3,
     price: 17,
@@ -119,7 +119,7 @@ const category= [
 },
 {
     id: 15,
-    name: 'Handi Chicken',
+    name: 'Tasty Chicken',
     category : 'chicken',
     rating : 4.3,
     price: 17,
@@ -128,7 +128,7 @@ const category= [
 },
 {
     id: 16,
-    name: 'Handi Chicken',
+    name: 'Chicken Curry',
     category : 'chicken',
     rating : 4.3,
     price: 17,
@@ -137,7 +137,7 @@ const category= [
 },
 {
     id: 17,
-    name: 'Murgh Musallam',
+    name: 'Chicken with vegetable',
     category : 'chicken',
     rating : 4.3,
     price: 20,
@@ -147,7 +147,7 @@ const category= [
 {
     id: 18,
     name: 'Matar Paneer',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 15,
     img: 'images/paneer/Matar-Paneer.jpg',
@@ -157,7 +157,7 @@ const category= [
 {
     id: 19,
     name: 'Palak Paneer',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 10,
     img: 'images/paneer/palak-paneer.jpg',
@@ -167,7 +167,7 @@ const category= [
 {
     id: 20,
     name: 'Paneer Do Pyaza',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 12,
     img: 'images/paneer/Paneer-Do-Pyaza.jpg',
@@ -177,7 +177,7 @@ const category= [
 {
     id: 21,
     name: 'Hyderabadi Paneer',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 8,
     img: 'images/paneer/Paneer-Hyderabadi.jpg',
@@ -186,7 +186,7 @@ const category= [
 {
     id: 22,
     name: 'Paneer Lababdar',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 7,
     img: 'images/paneer/paneer-lababdar.jpg',
@@ -196,7 +196,7 @@ const category= [
     id: 23,
     name: 'Shahi Paneer',
     age: '32',
-    category : 'mashala',
+    category : 'paneer',
     rating : 4.3,
     price: 5,
     img: 'images/paneer/shahi-paneer.jpg',
@@ -261,7 +261,7 @@ const category= [
     name: 'Veg Pakora',
     category : 'vegetable',
     rating : 4.3,
-    price: 4,
+    price: 15,
     img: 'images/vegetable/vegetable-pakora.jpg',
     quantity: 1
 },
